@@ -15,10 +15,6 @@ in pafy, update backend_youtube_dl.py to resolve key error
 
 pip install --upgrade google-api-python-client
 
-
-google/youtube api key
-AIzaSyDScft974x9keK-q_IRpsDhFh4BQONwkOQ
-
 youtube
 https://console.cloud.google.com/apis/api
 https://developers.google.com/youtube/v3/docs/

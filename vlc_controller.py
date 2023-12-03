@@ -119,7 +119,7 @@ def main():
 	# logging.basicConfig(filename='example.log', encoding='utf-8', level=logging.DEBUG)
 	# '%(asctime)s - %(levelname)s - %(message)s'
 	logging.basicConfig(format='%(levelname)s:%(message)s', level=logging.DEBUG)
-	pafy.set_api_key('AIzaSyDScft974x9keK-q_IRpsDhFh4BQONwkOQ')
+	pafy.set_api_key('*******************')
 	conn = sqlite3.connect('db.sqlite3')
 
 	# first run, assume karaoke time is just starting, clear things up from last time
